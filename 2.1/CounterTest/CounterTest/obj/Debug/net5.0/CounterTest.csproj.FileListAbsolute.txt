@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\bin\Debug\net5.0\CounterTest.exe
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\bin\Debug\net5.0\CounterTest.deps.json
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\bin\Debug\net5.0\CounterTest.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\bin\Debug\net5.0\CounterTest.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\bin\Debug\net5.0\CounterTest.dll
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\bin\Debug\net5.0\ref\CounterTest.dll
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\bin\Debug\net5.0\CounterTest.pdb
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\obj\Debug\net5.0\CounterTest.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\obj\Debug\net5.0\CounterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\obj\Debug\net5.0\CounterTest.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\obj\Debug\net5.0\CounterTest.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\obj\Debug\net5.0\CounterTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\obj\Debug\net5.0\CounterTest.dll
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\obj\Debug\net5.0\ref\CounterTest.dll
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\obj\Debug\net5.0\CounterTest.pdb
+C:\Users\admin\OneDrive\Desktop\OOP\2.1\CounterTest\CounterTest\obj\Debug\net5.0\CounterTest.genruntimeconfig.cache
