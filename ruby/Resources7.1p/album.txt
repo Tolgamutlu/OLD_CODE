@@ -1,0 +1,17 @@
+2
+Kendrick Lamar
+good kid, m.A.A.d city
+2
+3
+m.A.A.d city
+sounds/M.A.A.D._City.wav
+Money Trees
+sounds/Money_Trees.wav
+Swimming Pools
+sounds/Swimming_Pools.wav
+Michael Jackson
+Thriller
+1
+1
+Billie Jean
+sounds/Billie_Jean.wav
